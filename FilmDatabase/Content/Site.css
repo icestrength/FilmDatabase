@@ -1,0 +1,115 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+.user-photo {
+	float: left;
+	border: 1px solid #000;
+    margin-right: 20px;
+
+	width: 200px;
+	height: 300px;
+}
+.navbar-brand {
+  float: none;
+  }
+
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+  height:100%;
+}
+
+  .bottom-align-text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+   .bottom-align-left-text {
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+  }
+   .row {
+      position: relative;
+  }
+.top-buffer { margin-top:20px; }
+
+#header{
+    background : linear-gradient( -90deg, rgb( 32, 105, 136) 0%, rgb( 17, 65, 101) 59.229%, rgb( 12, 50, 86) 100%) ;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+}
+.items li:hover, .search:hover{
+    border-radius: 10px;
+    text-shadow: 0cm 0cm 0.28888cm white;
+}
+.item li a{
+    color:white;
+}
+.input{
+    border-radius: 10px;
+    
+     padding:5px;
+}
+.search{
+    border: none ;
+    padding:5px;
+    width:90px;
+    border-radius:10px;
+     background : linear-gradient( -90deg, rgb( 32, 105, 136) 0%, rgb( 17, 65, 101) 59.229%, rgb( 12, 50, 86) 100%) ;
+     color:white;
+
+}
+
+
+

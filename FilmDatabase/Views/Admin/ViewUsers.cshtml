@@ -1,0 +1,78 @@
+﻿@model IEnumerable<FilmDatabase.Models.ApplicationUser>
+@{
+    ViewBag.Title = "ViewUsers";
+}
+<br />
+<br />
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>UserName</th>
+                <th>Role</th>
+                <th>Status</th>
+                <th>Action</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.Label(item.UserName)</td>
+                        <td>
+                            @{
+
+                    SelectListItem s1 = new SelectListItem { Text = "user", Value = "user" };
+                    SelectListItem s2 = new SelectListItem { Text = "admin", Value = "admin" };
+                    SelectListItem s3 = new SelectListItem { Text = "moderator", Value = "moderator" };
+
+                    var selectList = new SelectList(
+                        new List<SelectListItem>
+                                    {
+                                        s1,s2,s3
+                                    }, "Value", "Text", item.Roles.ElementAt(0).Role.Name);
+
+
+
+                            }
+                            @using (Html.BeginForm("PromoteToRole", "Admin", new { id = item.Id }))
+                            { 
+                            @Html.DropDownList("role", selectList)
+                                <input type="submit" value="Promote" />
+                            }
+                           
+                        </td>
+                        <td>
+                            @if (item.Blocked)
+                            {
+                                @Html.Label("Blocked")
+                            }
+                            @if (!item.Blocked)
+                            {
+                                @Html.Label("Active")
+
+                            }
+                        </td>
+                        <td>
+                            @if (item.Blocked)
+                            {
+                                @Html.ActionLink("Розблокувати", "Ban", "Admin", new { id = item.Id }, null)
+                            }
+                            @if (!item.Blocked)
+                            {
+                                @Html.ActionLink("Заблокувати", "Ban", "Admin", new { id = item.Id }, null)
+                            }
+                        </td>
+                        
+                    </tr>
+                }
+            }
+            
+
+        </tbody>
+    </table>
+   
+</div>

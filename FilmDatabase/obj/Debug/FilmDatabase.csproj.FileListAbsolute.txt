@@ -1,0 +1,211 @@
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\FilmDatabase.dll.config
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Antlr3.Runtime.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\EntityFramework.SqlServer.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Newtonsoft.Json.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.Web.Common.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Helpers.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Optimization.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\WebActivatorEx.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\WebGrease.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.Web.Common.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Ninject.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Helpers.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.WebPages.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\System.Web.Optimization.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Newtonsoft.Json.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Antlr3.Runtime.pdb
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\EntityFramework.SqlServer.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.csprojResolveAssemblyReference.cache
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialCreate.resources
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.csproj.GenerateResource.Cache
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation.resources
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation1.resources
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.InitialCreate.resources
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initial.resources
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initia1l.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.dll.config
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.pdb
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Antlr3.Runtime.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\EntityFramework.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\EntityFramework.SqlServer.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Google.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Web.Infrastructure.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Newtonsoft.Json.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Common.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Mvc.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Owin.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Helpers.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Mvc.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Optimization.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Razor.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Deployment.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Razor.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\WebActivatorEx.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\WebGrease.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Common.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Mvc.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Helpers.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Mvc.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Razor.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Deployment.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Razor.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\System.Web.Optimization.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Newtonsoft.Json.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Antlr3.Runtime.pdb
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\EntityFramework.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\EntityFramework.SqlServer.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Google.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.csprojResolveAssemblyReference.cache
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialCreate.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation1.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.InitialCreate.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initial.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initia1l.resources
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.csproj.GenerateResource.Cache
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.dll
+D:\FilmDataBase\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.dll.config
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Antlr3.Runtime.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\EntityFramework.SqlServer.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Newtonsoft.Json.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Common.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Helpers.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Optimization.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\WebActivatorEx.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\WebGrease.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Common.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Ninject.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Helpers.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.WebPages.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\System.Web.Optimization.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Newtonsoft.Json.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Antlr3.Runtime.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\EntityFramework.SqlServer.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.csprojResolveAssemblyReference.cache
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialCreate.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.ApplicationDbContext.InitialDatabaseCreation1.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.InitialCreate.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initial.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Migrations.FilmContext.Initia1l.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.csproj.GenerateResource.Cache
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\bin\en\FilmDatabase.resources.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Resources.Resource.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\FilmDatabase.Resources.Resource.en.resources
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\FilmDatabase\obj\Debug\en\FilmDatabase.resources.dll

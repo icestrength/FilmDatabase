@@ -1,0 +1,35 @@
+﻿@model FilmDatabase.Models.Film
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<div class="row">
+    @if (Model.Image != null)
+    {
+        @Html.Raw(String.Format("<img style='width:{0}px;float:left; height:{1}px;' src=\"data:image/png;base64,"
+                                     + Convert.ToBase64String(Model.Image) + "\" />", 200, 300))
+
+    }
+
+    @if (Model.Image == null)
+    {
+
+        <div class="user-photo"></div>
+    }
+    Category:
+    @foreach (var c in Model.Categories)
+    {
+        @c.Name<text>,</text>
+    }.
+    <br>
+    @Html.DisplayFor(modelItem => Model.Description)
+    @using (Html.BeginForm())
+{
+    <div class="bottom-align-text">
+        <input type="submit" value="Видалити" />
+    </div>
+}
+
+</div>
+

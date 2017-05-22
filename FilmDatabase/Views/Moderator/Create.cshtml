@@ -1,0 +1,66 @@
+﻿@model FilmDatabase.Models.FilmViewModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<br />
+@using (Html.BeginForm("Create", "Moderator",
+    FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-8">
+                @Html.TextBoxFor(m => m.Name,
+                    new { @class = "form-control", @placeholder = "Enter product name" })
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Description, new { @class = "control-label col-md-2" })
+            <div class="col-md-8">
+                @Html.TextAreaFor(model => model.Description, 10, 40, htmlAttributes: new { style = "width: 100%; max-width: 100%;" })
+                @Html.ValidationMessageFor(m => m.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.CategoryId, new { @class = "control-label col-md-2" })
+            <div class="col-md-8">
+                @foreach (var c in ViewBag.Categories)
+                {
+                    <input type="checkbox" name="CategoryId" value="@c.Id" />@c.Name
+                }
+                
+                @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Image, new { @class = "control-label col-md-2" })
+            <div class="col-md-8">
+                @Html.TextBoxFor(m => m.Image, new { type = "file", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Image, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-8">
+                <input type="submit" value="Save" class="btn btn-success" />
+                @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-warning" })
+            </div>
+        </div>
+    </div>
+}
+<div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

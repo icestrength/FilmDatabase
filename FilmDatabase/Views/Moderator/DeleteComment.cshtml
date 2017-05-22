@@ -1,0 +1,25 @@
+﻿@model FilmDatabase.Models.Comment
+@{
+    ViewBag.Title = "DeleteComment";
+}
+<br />
+<br />
+@using (Html.BeginForm("DeleteComment","Moderator",new{id=Model.Id},FormMethod.Post,null))
+{
+    <div class="well col-md-8 ">
+        <div>@Html.Label(Model.UserName)</div>
+        <div class="pull-right">
+            @Html.Label(Model.Date.ToString())
+        </div>
+        <div>@Html.Raw(Model.Body.Replace(Environment.NewLine, "<br/>"))</div>
+        <br />
+        <br />
+
+        <div class="bottom-align-text">
+            <input type="submit" value="Видалити" />
+        </div>
+
+    </div>
+
+}
+

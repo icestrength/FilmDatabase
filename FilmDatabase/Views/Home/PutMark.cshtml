@@ -1,0 +1,7 @@
+﻿@model FilmDatabase.Models.Mark
+@using(Html.BeginForm("PutMark","Home"))
+{
+    
+    @Html.DropDownListFor(a=>a.MarkValue,(SelectList)ViewBag.List,"Оцінка")
+    <input type="submit" value="Оцінити" />
+}

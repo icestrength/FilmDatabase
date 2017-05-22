@@ -1,0 +1,13 @@
+﻿@model FilmDatabase.Models.Comment
+@{
+    ViewBag.Title = "Partial";
+}
+<div class="row">
+    @using (Html.BeginForm("CreateComment", "Home"))
+    {
+        @Html.TextAreaFor(model => model.Body, 10, 20, htmlAttributes: new { style = "width: 100%; max-width: 100%;height:100px;", @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Body)
+
+        <div><input type="submit" value="Додати" /></div>
+    }
+</div>

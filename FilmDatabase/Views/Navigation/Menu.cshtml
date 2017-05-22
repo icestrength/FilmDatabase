@@ -1,0 +1,31 @@
+﻿@model List<string>
+@Html.RouteLink(@Resources.Resource.Ratio, new
+{
+    controller = "Home",
+    action = "Index",
+    rated = true
+},new {
+@class = "btn btn-block btn-default btn-md"})
+
+@Html.ActionLink(Convert.ToBoolean(TempData["Pressed"]) ? @Resources.Resource.HideGenres : @Resources.Resource.ShowGenres, "ShowGenres", "Navigation", new { pressed = Convert.ToBoolean(TempData["Pressed"])}, new {
+@class = "btn btn-block btn-default btn-md"})
+@if (TempData["Pressed"]=="true")
+{ 
+    TempData.Keep("Pressed");
+using (Html.BeginForm("Filter", "Home"))
+{
+    foreach (var item in Model)
+    {
+        <div class="btn btn-block btn-default btn-md ">
+           <div style="display:inline" class="text-right">
+    <input type="checkbox" name="selectedCategories" value="@item" />
+</div><div class="text-center" style="display:inline">@item</div>
+        </div>
+
+    }
+
+    <input class="btn btn-block btn-default btn-group-md" type="submit" value="Filter" />
+
+}
+}
+

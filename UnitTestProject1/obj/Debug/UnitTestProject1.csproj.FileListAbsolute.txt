@@ -1,0 +1,111 @@
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Helpers.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Ninject.Web.Common.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Ninject.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\WebActivatorEx.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Helpers.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Ninject.Web.Common.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Ninject.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\JJ.JJ-ПК\Desktop\Новая папка (15)\FilmDatabase\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\FilmDatabase.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Owin.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Helpers.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\WebActivatorEx.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Ninject.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Ninject.Web.Common.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\FilmDatabase.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Helpers.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Ninject.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Ninject.Web.Common.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\JJ.JJ-ПК\Desktop\FilmDatabase-master\UnitTestProject1\bin\Debug\en\FilmDatabase.resources.dll
